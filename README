@@ -1,0 +1,2 @@
+Сборка: make (g++ C++17)
+Запуск ./bin/main <path_to_file>
